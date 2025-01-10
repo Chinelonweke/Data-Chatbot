@@ -8,3 +8,5 @@ faiss-cpu
 langchain-groq
 langchain-community
 langchain-huggingface
+python-docx
+hashlib
